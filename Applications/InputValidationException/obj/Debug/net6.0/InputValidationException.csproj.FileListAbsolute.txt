@@ -1,0 +1,15 @@
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\bin\Debug\net6.0\InputValidationException.exe
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\bin\Debug\net6.0\InputValidationException.deps.json
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\bin\Debug\net6.0\InputValidationException.runtimeconfig.json
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\bin\Debug\net6.0\InputValidationException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\bin\Debug\net6.0\InputValidationException.pdb
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\obj\Debug\net6.0\InputValidationException.csproj.AssemblyReference.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\obj\Debug\net6.0\InputValidationException.GeneratedMSBuildEditorConfig.editorconfig
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\obj\Debug\net6.0\InputValidationException.AssemblyInfoInputs.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\obj\Debug\net6.0\InputValidationException.AssemblyInfo.cs
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\obj\Debug\net6.0\InputValidationException.csproj.CoreCompileInputs.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\obj\Debug\net6.0\InputValidationException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\obj\Debug\net6.0\refint\InputValidationException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\obj\Debug\net6.0\InputValidationException.pdb
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\obj\Debug\net6.0\InputValidationException.genruntimeconfig.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\InputValidationException\obj\Debug\net6.0\ref\InputValidationException.dll

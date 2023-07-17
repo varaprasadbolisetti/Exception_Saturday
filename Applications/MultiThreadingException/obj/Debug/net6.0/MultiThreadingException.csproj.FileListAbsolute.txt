@@ -1,0 +1,15 @@
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\bin\Debug\net6.0\MultiThreadingException.exe
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\bin\Debug\net6.0\MultiThreadingException.deps.json
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\bin\Debug\net6.0\MultiThreadingException.runtimeconfig.json
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\bin\Debug\net6.0\MultiThreadingException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\bin\Debug\net6.0\MultiThreadingException.pdb
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.csproj.AssemblyReference.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.GeneratedMSBuildEditorConfig.editorconfig
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.AssemblyInfoInputs.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.AssemblyInfo.cs
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.csproj.CoreCompileInputs.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\obj\Debug\net6.0\refint\MultiThreadingException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.pdb
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.genruntimeconfig.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\MultiThreadingException\obj\Debug\net6.0\ref\MultiThreadingException.dll

@@ -1,0 +1,15 @@
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\bin\Debug\net6.0\NetworkException.exe
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\bin\Debug\net6.0\NetworkException.deps.json
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\bin\Debug\net6.0\NetworkException.runtimeconfig.json
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\bin\Debug\net6.0\NetworkException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\bin\Debug\net6.0\NetworkException.pdb
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\obj\Debug\net6.0\NetworkException.csproj.AssemblyReference.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\obj\Debug\net6.0\NetworkException.GeneratedMSBuildEditorConfig.editorconfig
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\obj\Debug\net6.0\NetworkException.AssemblyInfoInputs.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\obj\Debug\net6.0\NetworkException.AssemblyInfo.cs
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\obj\Debug\net6.0\NetworkException.csproj.CoreCompileInputs.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\obj\Debug\net6.0\NetworkException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\obj\Debug\net6.0\refint\NetworkException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\obj\Debug\net6.0\NetworkException.pdb
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\obj\Debug\net6.0\NetworkException.genruntimeconfig.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\NetworkException\obj\Debug\net6.0\ref\NetworkException.dll

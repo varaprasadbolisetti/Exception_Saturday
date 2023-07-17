@@ -1,0 +1,15 @@
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\bin\Debug\net6.0\CustomException.exe
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\bin\Debug\net6.0\CustomException.deps.json
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\bin\Debug\net6.0\CustomException.runtimeconfig.json
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\bin\Debug\net6.0\CustomException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\bin\Debug\net6.0\CustomException.pdb
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\obj\Debug\net6.0\CustomException.csproj.AssemblyReference.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\obj\Debug\net6.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfoInputs.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\obj\Debug\net6.0\CustomException.AssemblyInfo.cs
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\obj\Debug\net6.0\CustomException.csproj.CoreCompileInputs.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\obj\Debug\net6.0\CustomException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\obj\Debug\net6.0\refint\CustomException.dll
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\obj\Debug\net6.0\CustomException.pdb
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\obj\Debug\net6.0\CustomException.genruntimeconfig.cache
+F:\windowsServices\Exception.Saturday.Training\Applications\CustomException\obj\Debug\net6.0\ref\CustomException.dll
