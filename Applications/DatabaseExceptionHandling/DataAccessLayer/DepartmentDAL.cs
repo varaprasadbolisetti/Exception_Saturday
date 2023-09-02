@@ -30,10 +30,7 @@ namespace DatabaseExceptionHandling.DataAccessLayer
             string connectionstring = configuration.GetConnectionString("con");
             SqlConnection con = new SqlConnection(connectionstring);
             try
-            {
-                
-                
-                
+            {               
                     SqlCommand cmd = new SqlCommand("SELECT * FROM [dbo].[Department] where DepartmentID = 2", con);
                     cmd.CommandType = CommandType.Text;
                     con.Open();
